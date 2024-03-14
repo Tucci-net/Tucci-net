@@ -15,10 +15,6 @@ Hi! I am Tanner Tucci, an emerging designer, explores game design, cyber securit
 ## GitHub Shinies
 ![](https://github-profile-trophy.vercel.app/?username=tucci-net&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Some (Probably) Dead Guy's Words
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=tucci-net&icon=8&color=1)](https://visitcount.itsvg.in)
 
