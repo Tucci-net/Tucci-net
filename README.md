@@ -1,4 +1,5 @@
-# 💫 About Me:
+<img src="ANIMEXP.mp4" alt="Paca Plays the Guitar"  width="250" />
+# Me:
 Hi! I am Tanner Tucci, an emerging designer, explores game design, cyber security, and tech communication, while also engaging in indie development and punk rock music. I am Proficient in programming and Adobe Creative Suite, I aspire to join major game studios to help close the gap of artistry and technology with an intricate tech prowess, and a drive for innovation in my career.
 
 
