@@ -1,4 +1,4 @@
-<img src="PacaAnim.gif" alt="Paca Plays the Guitar"  width="250" />
+<img src="PacaAnim.gif" alt="Paca Plays the Guitar"  width="400" />
 
 #
 # Me:
