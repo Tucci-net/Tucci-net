@@ -20,9 +20,6 @@ Hi! I am Tanner Tucci, an emerging designer, explores game design, cyber securit
 
 
 
-
-## GitHub Shinies
-![](https://github-profile-trophy.vercel.app/?username=tucci-net&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## Find Me Here
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Tucci-net) 
