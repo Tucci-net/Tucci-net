@@ -1,7 +1,7 @@
 <img src="PacaAnim.gif" alt="Paca Plays the Guitar"  width="400" />
 
 # Me:
-Hi! I am Tanner Tucci, an emerging front end developer, exploring cyber security, technical design, tech communication, while also engaging in indie development and alternative music music. I am Proficient in programming and Adobe Creative Suite, I aspire to join a design studio to help close the gap of artistry and technology with an intricate tech prowess, and a drive for innovation in my career.
+Hi! I am Tanner Tucci, an emerging front end developer, web design, tech communication, while also engaging in indie development and alternative music music. I am Proficient in programming and Adobe Creative Suite, I aspire to join a design studio to help close the gap of artistry and technology with an intricate tech prowess, and a drive for innovation in my career.
 
 # Tech Stack:
 <p>
