@@ -21,14 +21,7 @@ Hi! I am Tanner Tucci, an emerging front end developer, web design, tech communi
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" width="50" height="50" />     
 </p>
 
-          
-
-    
-
-     
 ## Find Me Here
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Tucci-net) 
-[![My Dev Site](<https://tannertucci.dev/favicon.svg>)](https://tannertucci.dev) 
-[![..and everything else](https://pacapunk.net/assets/Pacalogo.png)](https://pacapunk.net)
-
-
+[<img src="https://tannertucci.dev/favicon.svg" alt="Development/Portfolio Site" style="width:2.5rem"/>](https://tannertucci.dev)
+[<img src="https://pacapunk.net/assets/Pacalogo.png" alt="..and everything else" style="height:2.5rem"/>](https://pacapunk.net)
+[<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen" alt="Codepen Link" style="width:7rem"/>](https://codepen.io/Tucci-net) 
