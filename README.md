@@ -28,7 +28,7 @@ Hi! I am Tanner Tucci, an emerging front end developer, web design, tech communi
      
 ## Find Me Here
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Tucci-net) 
-[![My Dev Site](<img src="PacaAnim.gif" alt="Paca Plays the Guitar"  width="400" />)](https://tannertucci.dev) 
-[![..and everything else]<img src="https://pacapunk.net/assets/Pacalogo.png">](https://pacapunk.net)
+[![My Dev Site](<https://tannertucci.dev/favicon.svg>)](https://tannertucci.dev) 
+[![..and everything else](https://pacapunk.net/assets/Pacalogo.png)](https://pacapunk.net)
 
 
